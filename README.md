@@ -12,5 +12,4 @@ me chamo Eduarda ✨
   
 - estudante do ensino medio
 
-[](
-https://media.tenor.com/Y0qRimcX8UIAAAAi/canard-school.gif
+![](https://media.tenor.com/Y0qRimcX8UIAAAAi/canard-school.gif)
