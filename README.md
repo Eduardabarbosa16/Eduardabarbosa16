@@ -1,16 +1,16 @@
-## Hi there 👋
+## bem vindo ao meu perfil 👋 
 
-<!--
-**Eduardabarbosa16/Eduardabarbosa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+me chamo Eduarda ✨
+  
+- estou estudando no alura
+- estou fabricando projetos para o trabalho de tecnologia
+- ultilizo esse espaço para fabricar meus projetos de aula 🤗
 
-Here are some ideas to get you started:
+- Você pode entrar em contato comigo  em sala de aula
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aluna Eduarda Barbosa Trindade
+  
+- estudante do ensino medio
+
+[](
+https://media.tenor.com/Y0qRimcX8UIAAAAi/canard-school.gif
